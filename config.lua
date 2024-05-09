@@ -3,11 +3,11 @@
 --##################################--
 
 config = {}
-config.openMenu = 166 -- F5 > https://docs.fivem.net/docs/game-references/controls/
-config.subtitle = '~b~Custom Your Title' -- Title of menu
+config.openMenu = 167 -- F5 > https://docs.fivem.net/docs/game-references/controls/
+config.subtitle = '~b~Nexus Roleplay' -- Title of menu
 config.banner = 'graph0001' -- Banner name
 config.cooldown = 5000 -- In ms
-config.lang = 'fr'
+config.lang = 'en'
 
 config.cars = {
 
